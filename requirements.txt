@@ -9,3 +9,4 @@ streamlit
 tavily-python
 langchain_groq
 langsmith
+dotenv
